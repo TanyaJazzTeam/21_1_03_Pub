@@ -51,7 +51,6 @@ Dillinger utiliza una serie de proyectos de código abierto para funcionar corre
 - [Express] - framework de aplicación de red rápido node.js [@tjholowaychuk]
 - [Gulp] - el sistema de compilación de transmisión
 - [Breakdance](https://breakdance.github.io/breakdance/) - Conversor de HTML a Markdown
-- vgfdg
 - [jQuery] - claro
 
 Y, por supuesto, Dillinger en sí es de código abierto con un [repositorio público][eneldo] en GitHub.
