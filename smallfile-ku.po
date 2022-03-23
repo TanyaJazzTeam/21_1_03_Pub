@@ -30,6 +30,10 @@ msgstr ""
 msgid "AMP Contributor Summit 2019 Applications Now Open"
 msgstr ""
 
+#: /views/partials/banner.j2:50
+msgid "AMP Contributor Summit 2019 Applications Now Open oooll"
+msgstr ""
+
 #: /views/partials/footer.j2:43
 msgid "AMP Framework"
 msgstr ""
